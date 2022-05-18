@@ -31,12 +31,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ka-Hei Chow
-subtitle: M.Sc. Student in Applied Earth Observation
+#subtitle: M.Sc. Student in Applied Earth Observation
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website for Ka-Hei, an earth observation enthusiast.
 author: Ka-Hei Chow
 email: pinkychow1010@gmail.com
-avatar: assets/images/avatar.jpg
+#avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
