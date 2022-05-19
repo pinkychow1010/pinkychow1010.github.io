@@ -90,12 +90,13 @@
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
 		text-decoration: none;
-
-		strong {
-			color: #333;
-		}
 	}
 
+	h1 {
+		font-size: 4em;
+		letter-spacing: -1px;
+	}
+	
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
@@ -600,7 +601,7 @@
 						color: #fff;
 
 						span::before {
-							color: #e27689;
+							color: #61b0b7; 
 						}
 					}
 				}
@@ -608,7 +609,7 @@
 		}
 	}
 
-/* Footer */
+/* Footer *//* e27689; */
 
 	#footer {
 		margin-left: 375px;
