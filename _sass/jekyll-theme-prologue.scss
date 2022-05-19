@@ -118,11 +118,6 @@
 		margin: 2em 0 0 0;
 	}
 
-	strong, b {
-		font-weight: 300;
-		color: #666;
-	}
-
 	em, i {
 		font-style: italic;
 	}
@@ -247,13 +242,13 @@
 		}
 
 		&.avatar48 {
-			width: 48px;
-			height: 48px;
+			width: 100px;
+			height: 100px;
 			background: #0000ffff;
 
 			img {
-				width: 150px;
-				height: 150px;
+				width: 100px;
+				height: 100px;
 			}
 		}
 
