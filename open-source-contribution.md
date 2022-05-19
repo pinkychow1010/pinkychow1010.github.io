@@ -6,7 +6,7 @@ icon: fa-book
 order: 4
 ---
 
-## **Digital Chinese History Blog**
+### **Digital Chinese History Blog**
 
-<a href='https://pinkychow1010.github.io/digital-chinese-history-blog/' download class="button scrolly">Click to View</a>
+<a href='https://pinkychow1010.github.io/digital-chinese-history-blog/' class="button scrolly">Click to View</a>
 
