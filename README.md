@@ -1,14 +1,8 @@
-# ⚠️ Unmaintained ⚠️
-
-# Prologue - Jekyll Theme
+# Personal Website in Prologue - Jekyll Theme (GitHub Pages)
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
 
 ![Prologue Theme](assets/images/screenshot.png "Prologue Theme Screenshot")
-
-This is Prologue, a simple, single page responsive site template from [HTML5 UP](https://html5up.net/prologue), now available as a blog-aware Jekyll theme from [Chris Bobbe](https://chrisbobbe.github.io). It features a clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
-
-**Demo**: https://chrisbobbe.github.io/jekyll-theme-prologue/
 
 # Added Features
 
@@ -46,19 +40,6 @@ All new sections should be added as html or Markdown documents in the `_sections
 - `icon-style` (optional; "solid" is default, "regular" for outline style icons, or "brands" for logos)
 - `auto-header` (optional; "use-title" is default, "none" for no header, or custom header text)
 - `hide` (optional; if `true`, the section won't appear)
-
-# Start blogging!
-
-Jekyll has great resources to get you started writing blog posts. Check out [this Jekyll Docs page](https://jekyllrb.com/docs/posts/) first. When you've written a post or two, copy the following into a new file in your project directory called `blog.html`, and you'll see a link to your blog from the homepage:
-
-```
----
-layout: blog
-title: My Blog
----
-```
-
--- and that's it!
 
 # Add a page
 
