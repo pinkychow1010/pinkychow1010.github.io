@@ -1,5 +1,5 @@
 ---
-title: Open Data Cube
+title: Open Data Cube 🌊
 layout: post
 ---
 
