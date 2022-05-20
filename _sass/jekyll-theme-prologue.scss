@@ -65,27 +65,31 @@
 	  line-height: 1.75;
 	}
 
-	timeline {
+	.timeline {
 		display: flex;
 		background-color: #031625;
 		flex-wrap: nowrap;
+		flex-direction: row;
 
 		&:hover {
 			.tl-item {
-			width: 23.3333%;
+			width: 20%;
 			}
 		}
 	}
 
 	.tl-item {
+		display: flex;
+		flex-direction: row;
 		transform: translate3d(0, 0, 0);
 		position: relative;
-		width: 25%;
+		width: 20%;
 		height: 100vh;
 		min-height: 600px;
 		color: #fff;
 		overflow: hidden;
 		transition: width 0.5s ease;
+		flex: 1;
 		flex-grow: 1;
 	  
 		&:before, &:after {
