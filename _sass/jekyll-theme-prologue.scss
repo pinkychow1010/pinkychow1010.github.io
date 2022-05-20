@@ -61,7 +61,7 @@
 
 	body {
 	  font-family: 'Source Sans Pro',Helvetica Neue,Helvetica,Arial,sans-serif; 
-	  font-size: 11px;
+	  font-size: 10px;
 	  line-height: 1.25;
 	}
 
@@ -84,7 +84,7 @@
 		transform: translate3d(0, 0, 0);
 		position: relative;
 		width: 25%;
-		height: 120vh;
+		height: 100vh;
 		min-height: 650px;
 		color: #fff;
 		overflow: hidden;
@@ -145,21 +145,21 @@
 		z-index: 1;
 		text-align: center;
 		margin: 0 1.618em;
-		top: 55%;
+		top: 35%;
 		opacity: 0;
 	  
 		h1 {
 			font-family: 'Pathway Gothic One',Helvetica Neue,Helvetica,Arial,sans-serif;
 			text-transform: uppercase;
 			color: #1779cf;
-			font-size: 0.9rem;
+			font-size: 1.05rem;
 			font-weight: normal;
 		}
 	}
 
 	.tl-year {
 		position: absolute;
-		top: 50%;
+		top: 30%;
 		left: 50%;
 		transform: translateX(-50%) translateY(-50%);
 		z-index: 1;
