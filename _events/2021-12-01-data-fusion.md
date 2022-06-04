@@ -1,0 +1,13 @@
+---
+title: Data Fusion 🧱
+layout: post
+---
+
+## Landsat - MODIS Data Fusion
+
+To enhance the resolution for the global water product, satellite imagery from high- temporal and spatial resolution can be combined using data fusion. This project utilize the the R package ImageFusion to implement three different algorithms, namely STARFM, ESTARFM and FIT-FC, for the fusion of MODIS daily product and Landsat imagery. An automated workflow is built to transform HDF files directly to fused geoTIFF imagery, including all the necessary pre-processing (eg. interpolation and reprojection) and processing steps. It aims to evaluate the proformance of algorithms in terms of run time and accuracy. The results indicate ESTARFM as the optimal algorithms, which achieves high accuray of 96.6%.
+
+<figure>
+	<img src="{{ 'assets/images/fusion.png' | relative_url }}" alt="data-fusion"  width="800" />
+	<figcaption>Data before and after data fusion using ESTARFM</figcaption>
+</figure>
