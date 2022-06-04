@@ -1,6 +1,6 @@
 ---
 title: Water Quality ☱
-layout: post
+layout: event
 ---
 
 ## Water Quality Assessment based on MODIS daily product
