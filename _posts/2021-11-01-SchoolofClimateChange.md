@@ -1,5 +1,5 @@
 ---
-title: The Oxford School of Climate Change
+title: The Oxford School of Climate Change 🔥
 layout: post
 category: event
 ---

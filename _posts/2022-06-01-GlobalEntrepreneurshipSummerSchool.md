@@ -1,5 +1,5 @@
 ---
-title: Global Entrepreneurship Summer School
+title: Global Entrepreneurship Summer School 💼
 layout: post
 category: event
 ---

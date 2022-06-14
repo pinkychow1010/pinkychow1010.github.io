@@ -1,5 +1,5 @@
 ---
-title: Potsdam Summer School
+title: Potsdam Summer School ☀️
 layout: post
 category: event
 ---
