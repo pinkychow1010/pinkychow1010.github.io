@@ -1,6 +1,7 @@
 ---
 title: Data Fusion 🧱
 layout: post
+category: project
 ---
 
 ## Landsat - MODIS Data Fusion
