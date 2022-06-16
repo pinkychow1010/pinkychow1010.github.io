@@ -2,6 +2,7 @@
 title: Open Data Cube 🌊
 layout: post
 category: project
+sidebar-hide: true
 ---
 
 ## Inland Water Analysis

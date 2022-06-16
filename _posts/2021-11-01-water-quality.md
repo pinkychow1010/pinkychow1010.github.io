@@ -1,7 +1,8 @@
 ---
-title: Water Quality ☱
+title: Water Quality 💧
 layout: post
 category: project
+sidebar-hide: true
 ---
 
 ## Water Quality Assessment based on MODIS daily product
