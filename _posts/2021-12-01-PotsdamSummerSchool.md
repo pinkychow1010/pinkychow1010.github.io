@@ -2,6 +2,7 @@
 title: Potsdam Summer School ☀️
 layout: post
 category: event
+sidebar-hide: true
 ---
 
 ## Climate Impacts on the Cryosphere

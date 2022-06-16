@@ -2,6 +2,7 @@
 title: The Oxford School of Climate Change 🔥
 layout: post
 category: event
+sidebar-hide: true
 ---
 
 ## Bridging Science and Governance

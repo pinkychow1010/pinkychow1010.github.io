@@ -2,6 +2,7 @@
 title: Global Entrepreneurship Summer School 💼
 layout: post
 category: event
+sidebar-hide: true
 ---
 
 ## Learning to make positive impacts
