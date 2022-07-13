@@ -3,7 +3,7 @@ title: Publications
 subtitle: some works of mine
 layout: "page"
 icon: fa-book
-order: 3
+order: 4
 ---
 
 ### **Machine Learning-based Locust Swarm Prediction in Ethiopia using  Landsat and FLDAS Climate Dataset**
