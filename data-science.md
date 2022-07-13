@@ -2,8 +2,8 @@
 title: Data Science Portfolio
 subtitle: some works of mine
 layout: "page"
-icon: fa-desktop
-order: 1
+icon: fa-book
+order: 2
 ---
 
 ### **Data Science / Machine Learning Projects**
