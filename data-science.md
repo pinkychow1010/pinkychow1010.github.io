@@ -10,6 +10,10 @@ This page is to serve as a general overview of the standalone data science proje
 
 ## **Convolutional Neural Network (CNN)**
 
+<figure>
+	<img src="{{ 'assets/images/rice.jpg' | relative_url }}" alt="rice"  width="600" />
+</figure>
+
 - [**Paddy Doctor: Paddy Disease Classification**](https://github.com/pinkychow1010/machine-learning-project/tree/main/EfficientNet-rice-disease-detection)
   - Classification challenge on rice paddy images where different dieseases were the class of interest. I spent most of my time on the exploratory data analysis (EDA) and used a deep learning model built on EfficientNet for my submission, where classification accuracy on validation and testing data ranges from 97% to 98%. Written in Keras.
 
@@ -19,11 +23,19 @@ This page is to serve as a general overview of the standalone data science proje
 
 ## **Unsupervised Machine Learning**
 
-- [Clustering](https://github.com/pinkychow1010/machine-learning-project/tree/main/clustering-active-fire-detection)
+<figure>
+	<img src="{{ 'assets/images/fire.jpg' | relative_url }}" alt="fire"  width="600" />
+</figure>
+
+- [Clustering](https://github.com/pinkychow1010/VIIRS_Thermal_Fire_Detection)
   - Active Fire clustering.
 
 
 ## **Image / Data Processing**
+
+<figure>
+	<img src="{{ 'assets/images/locust.jpg' | relative_url }}" alt="locust"  width="600" />
+</figure>
 
 - [Locust Outbreak Prediction](https://github.com/pinkychow1010/DeepLearning_LocustPrediction)
   - Predict locust swarm from climate time series
@@ -33,11 +45,16 @@ This page is to serve as a general overview of the standalone data science proje
   - Integration test using pytest
 
 - [Time Series Analysis](https://github.com/pinkychow1010/Priestley_Glacier_GNSS_Positioning_Assessment)
+  - Analysis Antarctic glacier GPS time series to understand ice flow behavior
 
 - [Google Earth Engine](https://github.com/pinkychow1010/PhuQuoc_OpenDumping)
-
+  - Classified open dumps in Vietnam with training data from WWF
 
 ## **Visualizations**
+
+<figure>
+	<img src="{{ 'assets/images/fire.jpg' | relative_url }}" alt="fire"  width="600" />
+</figure>
 
 - [Data Dashboard](https://github.com/pinkychow1010/HomeRangeAnalysis)
   - Created a geospatial dashboard using flexdashboard generate visualizations for Gorillas' home range.
@@ -48,12 +65,20 @@ This page is to serve as a general overview of the standalone data science proje
 
 ## **Spatial Modelling**
 
+<figure>
+	<img src="{{ 'assets/images/gorilla2.jpg' | relative_url }}" alt="gorilla"  width="600" />
+</figure>
+
 - [Home Range Analysis](https://github.com/pinkychow1010/HomeRangeAnalysis)
 
 - [SDM]()
 
 
 ## **Natural Language Processing (NLP)**
+
+<figure>
+	<img src="{{ 'assets/images/earthquake.png' | relative_url }}" alt="earthquake"  width="600" />
+</figure>
 
 - [Disaster Tweets](https://github.com/pinkychow1010/machine-learning-project/tree/main/disaster-tweets)
 
