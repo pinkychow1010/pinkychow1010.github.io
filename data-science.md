@@ -53,7 +53,7 @@ This page is to serve as a general overview of the standalone data science proje
 ## **Visualizations**
 
 <figure>
-	<img src="{{ 'assets/images/fire.jpg' | relative_url }}" alt="fire"  width="600" />
+	<img src="{{ 'assets/images/watercrisis.jpg' | relative_url }}" alt="drought"  width="600" />
 </figure>
 
 - [Data Dashboard](https://github.com/pinkychow1010/HomeRangeAnalysis)
