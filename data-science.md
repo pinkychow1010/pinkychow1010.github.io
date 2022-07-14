@@ -1,12 +1,10 @@
 ---
 title: Data Science Portfolio
-subtitle: some works of mine
+subtitle: 
 layout: "page"
 icon: fa-book
 order: 2
 ---
-
-### **Data Science / Machine Learning Projects**
 
 This page is to serve as a general overview of the standalone data science projects I've worked on apart from my work. All of these projects are in Python and R.
 
