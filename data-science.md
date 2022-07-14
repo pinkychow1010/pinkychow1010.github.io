@@ -23,14 +23,25 @@ This page is to serve as a general overview of the standalone data science proje
   - Active Fire clustering.
 
 
-## **Data Processing**
+## **Image / Data Processing**
 
 - [Locust Outbreak Prediction](https://github.com/pinkychow1010/DeepLearning_LocustPrediction)
   - Predict locust swarm from climate time series
 
+- [Snow Cover Product](https://github.com/pinkychow1010/dlr_snow_class)
+  - Developed a snow classification scheme on long-term AVHRR satellite data with spatial and temporal filters
+  - Integration test using pytest
+
+- [Time Series Analysis](https://github.com/pinkychow1010/Priestley_Glacier_GNSS_Positioning_Assessment)
+
+- [Google Earth Engine](https://github.com/pinkychow1010/PhuQuoc_OpenDumping)
+
 
 ## **Visualizations**
 
+- [Data Dashboard](https://github.com/pinkychow1010/HomeRangeAnalysis)
+  - Created a geospatial dashboard using flexdashboard generate visualizations for Gorillas' home range.
+  
 - [Geospatial](https://github.com/pinkychow1010/Burkina_Faso_Inland_Water_Bodies_Time_Series)
   - Visualized geospatial data using pandas, seaborn, matplotlib, numpy and folium.
 
@@ -41,6 +52,7 @@ This page is to serve as a general overview of the standalone data science proje
 
 - [SDM]()
 
+
 ## **Natural Language Processing (NLP)**
 
 - [Disaster Tweets](https://github.com/pinkychow1010/machine-learning-project/tree/main/disaster-tweets)
@@ -49,18 +61,4 @@ This page is to serve as a general overview of the standalone data science proje
   - Chinese Text Analysis
 
 
-## **Dashboard**
 
-- [Data Dashboard](https://github.com/pinkychow1010/HomeRangeAnalysis)
-  - Created a geospatial dashboard using flexdashboard generate visualizations for Gorillas' home range.
-
-
-## **Image Processing**
-
-- [Snow Cover Product](https://github.com/pinkychow1010/dlr_snow_class)
-  - Developed a snow classification scheme on long-term AVHRR satellite data with spatial and temporal filters
-  - Integration test using pytest
-
-- [Time Series Analysis](https://github.com/pinkychow1010/Priestley_Glacier_GNSS_Positioning_Assessment)
-
-- [Google Earth Engine](https://github.com/pinkychow1010/PhuQuoc_OpenDumping)
