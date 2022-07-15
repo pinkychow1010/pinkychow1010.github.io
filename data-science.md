@@ -9,7 +9,7 @@ order: 2
 This page is to serve as a general overview of the standalone data science projects I've worked on apart from my work. All of these projects are in Python and R.
 
 <figure>
-	<img src="{{ 'assets/images/lib.png' | relative_url }}" alt="python-library"  width="600" />
+	<img src="{{ 'assets/images/library.png' | relative_url }}" alt="python-library"  width="600" />
 </figure>
 
 
