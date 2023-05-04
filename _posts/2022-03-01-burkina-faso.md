@@ -7,6 +7,8 @@ sidebar-hide: true
 
 ## Inland Water Analysis
 
-This project aims to develop a Python library for analysing water availability in Burkina Faso, West Africa. It is a task under WASCAL (West African Science Service Centre on Climate Change and Adapted Land Use) DataCube for Burkina Faso. Using the functions, users can access information such as the long-term trend of water coverage, as well as the frequency of water occurrence in an area, computed using ingested Sentinel-2 data.
+This project is a working contract with the Julius-Maximilians-Universität Würzburg, which aims to develop a Python library for analysing surface water dynamics in Burkina Faso, West Africa, using data infrastructure from Open Data Cube, a digital tool to facilitate access to satellite imagery such as Landsat and Sentinel-1. This project is within the framework of WASCAL (West African Science Service Centre on Climate Change and Adapted Land Use).
+
+This project tested multiple spectral approaches to process the imagery accurately, including applying a novel cloud mask. Helper functions are developed to automate analysis workflow. Users can hence easily access information such as the long-term trend of water coverage and the frequency of water occurrence, computed using ingested Sentinel-2 data.
 
 <span class="image left"><img src="{{ 'assets/images/burkina-faso.jpg' | relative_url }}" alt="" /></span>
