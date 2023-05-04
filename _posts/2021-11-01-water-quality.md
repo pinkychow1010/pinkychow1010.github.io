@@ -1,11 +1,11 @@
 ---
-title: Water Quality 💧
+title: Monitoring Water Quality 💧
 layout: post
 category: project
 sidebar-hide: true
 ---
 
-## Water Quality Assessment based on MODIS daily product
+## DLR contract: MODIS-based Global Water Quality Assessment
 
 This project is a work contract with the DLR, in which I explored the potential of MODIS in evaluating global inland water quality. Despite extensive research, many developed spectral indices fails to retrieve water quality information consistently beyond local scale due to atmospheric influences. This prototyping project aims to fill this gap and to evaluate the potential of a global assessment using MODIS imagery. 
 
