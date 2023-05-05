@@ -1,5 +1,5 @@
 ---
-title: Detect Fire Smoke 🔥
+title: Detecting Fire Smoke 🔥
 layout: post
 category: project
 sidebar-hide: true
