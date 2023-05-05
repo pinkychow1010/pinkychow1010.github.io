@@ -10,9 +10,11 @@ order: 4
 
 #### Final Poster Submission for ESA Living Planet Symposium 2022
 
-<a href='assets/images/poster.pdf' download class="button scrolly">Click to Download</a>
+<a href='assets/images/poster.pdf' download class="button scrolly">Click to View</a>
 
 <br>
+
+***
 
 ### **Snow Cover classification algorithms for European Alps**
 
@@ -22,7 +24,9 @@ order: 4
 
 <br>
 
-### **Global SnowPack for VIIRS**
+***
+
+### **Global SnowPack for VIIRS sensor**
 
 #### Software module applied for research project
 
