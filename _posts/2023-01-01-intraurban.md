@@ -1,8 +1,8 @@
 ---
-title: Climate Risk Assessment 🏙️ <span class="image left"><img src="{{ 'assets/images/avalanche.jpg' | relative_url }}" alt="" /></span>
-
+title: Climate Risk Assessment 🏙️
 layout: post
 category: project
+thumbnail: 'assets/images/avalanche.jpg'
 sidebar-hide: true
 ---
 
