@@ -3,12 +3,12 @@ title: Data Science Portfolio
 subtitle: 
 layout: "page"
 icon: fa-book
-order: 2
+order: 3
 ---
 
 Apart from my work, I have worked on multiple free-time data science projects where source code is available. They are mainly in Python and R. This includes CNN models for computer vision and other machine-learning applications on satellite imagery.
 
-Check out the previous project session for brief descriptions of my official work.
+Check out the past projects session for brief descriptions of my official work.
 
 <figure>
 	<img src="{{ 'assets/images/library.png' | relative_url }}" alt="python-library"  width="600" />

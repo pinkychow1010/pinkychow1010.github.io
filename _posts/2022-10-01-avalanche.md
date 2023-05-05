@@ -23,6 +23,6 @@ The main challenges lie in the huge input quantity (0.5 TB) and the unscalabilit
 
 
 <figure>
-	<img src="{{ 'assets/images/model.jpg' | relative_url }}" alt="modelvis"  width="500" />
+	<img src="{{ 'assets/images/model.jpg' | relative_url }}" alt="modelvis"  width="800" />
 	<figcaption><b>Fig. Data visualization example</b></figcaption>
 </figure>
