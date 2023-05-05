@@ -11,7 +11,7 @@ layout: default
 			<header>
 				<h2>{{- page.title -}}</h2>
 				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
-				<span class="image left"><img src="{{ page.thumbnail | relative_url }}" alt="" /></span>
+				{{ 'assets/images/avalanche.jpg' | asset_url | img_tag: 'Logo' }}
 			</header>
 	    {{- content -}}
 	  </div>

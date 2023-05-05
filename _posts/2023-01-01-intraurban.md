@@ -2,7 +2,6 @@
 title: Climate Risk Assessment 🏙️
 layout: post
 category: project
-thumbnail: 'assets/images/avalanche.jpg'
 sidebar-hide: true
 ---
 
