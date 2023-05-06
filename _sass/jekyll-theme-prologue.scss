@@ -183,30 +183,31 @@
 	}
 
 	/* Title Animation (Earth Observer) */
+	
 	.main-title-anim {
 		text-align: center;
 		text-transform: uppercase;
 		scroll-snap-type: y mandatory;
 		position: relative;
-		height: 100vh;
+		height: 40vh;
 		overflow-y: scroll;
 	}
-	
+
 	.hover,
 	.word,
 	h1 {
 		cursor: pointer;
 	}
-	
+
 	h1 {
 		position: relative;
 		color: #fff;
-		font: 900 60px Montserrat;
+		font: 900 40px Montserrat;
 		text-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
 	}
-	
+
 	.concept-anim {
-		height: 100vh;
+		height: 40vh;
 		position: relative;
 		display: flex;
 		align-items: center;
@@ -224,7 +225,6 @@
 		}
 	}
 	
-
 	/* SubTitle Animation */
 	.anim-content {
 	  position: absolute;
