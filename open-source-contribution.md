@@ -10,9 +10,7 @@ order: 6
 
 <br>
 
-<!-- [![]('assets/images/eobanner.jpg')](https://sites.google.com/view/intraurban/home) -->
-
-[<span class="image left"><img src="{{ 'assets/images/eobanner.jpg' | relative_url }}" alt="" /></span>](https://sites.google.com/view/intraurban/home)
+[<img alt="" width="700px" src="assets/images/eobanner.jpg" />](https://sites.google.com/view/intraurban/home)
 
 <br>
 
@@ -28,9 +26,7 @@ To fill this gap, I developed an [interface](https://sites.google.com/view/intra
 
 <br>
 
-[![]('assets/images/blog.jpg')](https://pinkychow1010.github.io/digital-chinese-history-blog/)
-
-<!-- <span class="image left"><img src="{{ 'assets/images/blog.jpg' | relative_url }}" alt="" /></span> -->
+[<img alt="" width="700px" src="assets/images/blog.jpg" />](https://pinkychow1010.github.io/digital-chinese-history-blog/)
 
 <br>
 
