@@ -188,7 +188,10 @@
 		text-align: center;
 		text-transform: inherit;
 		scroll-snap-type: none;
-		position: relative;
+		// position: relative;
+		position: absolute;
+		top: 50%;
+		left: 50%;
 		height: 30vh;
 		overflow-y: visible;
 	}
@@ -202,8 +205,8 @@
 	h1 {
 		// position: relative;
 		position: absolute;
-		top: 80%;
-		left: 40%;
+		top: 50%;
+		left: 50%;
 		color: #fff;
 		font: 900 32px Montserrat;
 		text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
@@ -213,8 +216,8 @@
 		height: 30vh;
 		// position: relative;
 		position: absolute;
-		top: 80%;
-		left: 40%;
+		top: 50%;
+		left: 50%;
 		display: flex;
 		align-items: center;
 		justify-content: center;
