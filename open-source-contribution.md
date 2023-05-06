@@ -10,7 +10,9 @@ order: 6
 
 <br>
 
-<span class="image left"><img src="{{ 'assets/images/eobanner.jpg' | relative_url }}" alt="" /></span>
+[![]('assets/images/eobanner.jpg')](https://sites.google.com/view/intraurban/home)
+
+<!-- <span class="image left"><img src="{{ 'assets/images/eobanner.jpg' | relative_url }}" alt="" /></span> -->
 
 <br>
 
@@ -26,7 +28,9 @@ To fill this gap, I developed an [interface](https://sites.google.com/view/intra
 
 <br>
 
-<span class="image left"><img src="{{ 'assets/images/blog.jpg' | relative_url }}" alt="" /></span>
+[![]('assets/images/blog.jpg')](https://pinkychow1010.github.io/digital-chinese-history-blog/)
+
+<!-- <span class="image left"><img src="{{ 'assets/images/blog.jpg' | relative_url }}" alt="" /></span> -->
 
 <br>
 
