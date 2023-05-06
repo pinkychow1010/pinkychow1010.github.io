@@ -7,6 +7,7 @@ sidebar-hide: true
 
 ## [World Bank: Climate Risk Assessment in Urban Pakistan](https://sites.google.com/view/intraurban/home)
 
+
 <br>
 
 <figure>
@@ -25,5 +26,13 @@ The huge advantage of cloud computing is that users do not need any powerful mac
 </figure>
 
 <br>
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/earth-europe.svg" width="50" height="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" width="50" height="50">
+</p>
 
 The app has been published on a [Google site](https://sites.google.com/view/intraurban/home) and the code is available on [GitHub](https://github.com/pinkychow1010/wb-pak-intraurban).
