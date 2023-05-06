@@ -15,3 +15,10 @@ To enhance the data product resolution, one way is to combine satellite imagery 
 	<img src="{{ 'assets/images/fusion.png' | relative_url }}" alt="data-fusion"  width="800" />
 	<figcaption>Data before and after data fusion using ESTARFM</figcaption>
 </figure>
+
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="50" height="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">
+</p>

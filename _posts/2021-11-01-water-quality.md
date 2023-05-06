@@ -15,3 +15,14 @@ It tests documented research approaches using Google Earth Engine and examines w
 	<img src="{{ 'assets/images/water-quality.jpg' | relative_url }}" alt="water"  width="800" />
 	<figcaption>Evaluating Water Quality in Tai Lake</figcaption>
 </figure>
+
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="50" height="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/earth-europe.svg" width="50" height="50">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" width="50" height="50">
+</p>

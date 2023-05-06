@@ -6,12 +6,26 @@ icon: fa-book
 order: 3
 ---
 
-Apart from my work, I have worked on multiple free-time data science projects where source code is available. They are mainly in Python and R. This includes CNN models for computer vision and other machine-learning applications on satellite imagery.
+<p float="left">
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="30" height="30">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/r.svg" width="30" height="30">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="30" height="30">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/earth-europe.svg" width="30" height="30">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/js.svg" width="30" height="30">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/q.svg" width="30" height="30">
+</p>
+
+Apart from my work, I have worked on multiple free-time data science projects where source code is available. This includes CNN models for computer vision and other machine-learning applications on satellite imagery.
 
 Check out the past projects session for brief descriptions of my official work.
 
 <figure>
-	<img src="{{ 'assets/images/library.png' | relative_url }}" alt="python-library"  width="600" />
+	<img src="{{ 'assets/images/library.png' | relative_url }}" alt="python-library"  width="400" />
 </figure>
 
 
