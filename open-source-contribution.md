@@ -10,7 +10,7 @@ order: 6
 
 <br>
 
-[<img alt="" width="700px" src="assets/images/eobanner.jpg" />](https://sites.google.com/view/intraurban/home)
+[<img alt="" width="800px" src="assets/images/eobanner.jpg" />](https://sites.google.com/view/intraurban/home)
 
 <br>
 
@@ -24,11 +24,7 @@ To fill this gap, I developed an [interface](https://sites.google.com/view/intra
 
 ### [**Digital Chinese History Blog**](https://pinkychow1010.github.io/digital-chinese-history-blog/)
 
-<br>
-
-[<img alt="" width="700px" src="assets/images/blog.jpg" />](https://pinkychow1010.github.io/digital-chinese-history-blog/)
-
-<br>
+[<img alt="" width="800px" src="assets/images/blog.jpg" />](https://pinkychow1010.github.io/digital-chinese-history-blog/)
 
 In recent years, the importance of digital archives has surged in historical studies, providing many scholars with easier access to resources. With my Eastern Asian background, I am aware that many academics in Chinese/ Asian studies are newbies to digital resources and programming, leading to the initiatives of this free-time project. 
 
