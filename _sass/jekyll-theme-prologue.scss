@@ -183,13 +183,13 @@
 	}
 
 	/* Title Animation (Earth Observer) */
-	
+		
 	.main-title-anim {
 		text-align: center;
 		text-transform: uppercase;
 		scroll-snap-type: y mandatory;
 		position: relative;
-		height: 40vh;
+		height: 30vh;
 		overflow-y: scroll;
 	}
 
@@ -202,8 +202,8 @@
 	h1 {
 		position: relative;
 		color: #fff;
-		font: 900 40px Montserrat;
-		text-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+		font: 900 30px Montserrat;
+		text-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 	}
 
 	.concept-anim {
@@ -212,19 +212,20 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		letter-spacing: 0.5em;
+		letter-spacing: 0.4em;
 		// background: url(https://meowlivia.s3.us-east-2.amazonaws.com/codepen/background/glacier.jpg)
 		// 	no-repeat center center / cover;
 		h1 {
 			display: inline-block;
 		}
 		&:hover h1 {
-			letter-spacing: 15px;
-			transform: scale(1.1);
+			letter-spacing: 10px;
+			transform: scale(1.05);
 			transition: 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 		}
 	}
-	
+
+
 	/* SubTitle Animation */
 	.anim-content {
 	  position: absolute;
