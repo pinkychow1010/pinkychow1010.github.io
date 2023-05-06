@@ -10,9 +10,9 @@ order: 6
 
 <br>
 
-[![]('assets/images/eobanner.jpg')](https://sites.google.com/view/intraurban/home)
+<!-- [![]('assets/images/eobanner.jpg')](https://sites.google.com/view/intraurban/home) -->
 
-<!-- <span class="image left"><img src="{{ 'assets/images/eobanner.jpg' | relative_url }}" alt="" /></span> -->
+[<span class="image left"><img src="{{ 'assets/images/eobanner.jpg' | relative_url }}" alt="" /></span>](https://sites.google.com/view/intraurban/home)
 
 <br>
 
