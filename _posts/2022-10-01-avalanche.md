@@ -26,6 +26,8 @@ The main challenges lie in the huge input quantity (0.5 TB) and the unscalabilit
 	<figcaption><b>Fig. Data visualization example</b></figcaption>
 </figure>
 
+<br>
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/microsoft.svg" width="50" height="50">
   &nbsp;&nbsp;&nbsp;&nbsp;

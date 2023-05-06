@@ -182,12 +182,55 @@
 		filter: grayscale(100%);
 	}
 
-	/* Testing */
+	/* Title Animation (Earth Observer) */
+	.main-title-anim {
+		text-align: center;
+		text-transform: uppercase;
+		scroll-snap-type: y mandatory;
+		position: relative;
+		height: 100vh;
+		overflow-y: scroll;
+	}
+	
+	.hover,
+	.word,
+	h1 {
+		cursor: pointer;
+	}
+	
+	h1 {
+		position: relative;
+		color: #fff;
+		font: 900 60px Montserrat;
+		text-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+	}
+	
+	.concept-anim {
+		height: 100vh;
+		position: relative;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		letter-spacing: 0.5em;
+		// background: url(https://meowlivia.s3.us-east-2.amazonaws.com/codepen/background/glacier.jpg)
+		// 	no-repeat center center / cover;
+		h1 {
+			display: inline-block;
+		}
+		&:hover h1 {
+			letter-spacing: 15px;
+			transform: scale(1.1);
+			transition: 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		}
+	}
+	
+
+	/* SubTitle Animation */
 	.anim-content {
 	  position: absolute;
 	  top: 50%;
 	  left: 50%;
-	  transform: translate(-30%, -50%);
+	  transform: translate(-28%, -50%);
 	  height: 160px;
 	  overflow:hidden;
 	  
