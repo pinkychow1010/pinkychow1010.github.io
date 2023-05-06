@@ -28,6 +28,7 @@ Check out the past projects session for brief descriptions of my official work.
 	<img src="{{ 'assets/images/library.png' | relative_url }}" alt="python-library"  width="400" />
 </figure>
 
+<br>
 
 ## **Convolutional Neural Network (CNN)**
 
@@ -41,6 +42,7 @@ Check out the past projects session for brief descriptions of my official work.
 [**Happywhale - Whale and Dolphin Identification**](https://github.com/pinkychow1010/machine-learning-project/tree/main/CNN-whale-fin-identification)
   - Identify whales and dolphins by unique characteristics
 
+***
 
 ## **Unsupervised Machine Learning**
 
@@ -51,6 +53,7 @@ Check out the past projects session for brief descriptions of my official work.
 [Clustering](https://github.com/pinkychow1010/VIIRS_Thermal_Fire_Detection)
   - Active Fire clustering.
 
+***
 
 ## **Image / Data Processing**
 
@@ -71,6 +74,8 @@ Check out the past projects session for brief descriptions of my official work.
 [Google Earth Engine](https://github.com/pinkychow1010/PhuQuoc_OpenDumping)
   - Classified open dumps in Vietnam with training data from WWF
 
+***
+
 ## **Visualizations**
 
 <figure>
@@ -83,6 +88,7 @@ Check out the past projects session for brief descriptions of my official work.
 [Geospatial](https://github.com/pinkychow1010/Burkina_Faso_Inland_Water_Bodies_Time_Series)
   - Visualized geospatial data using pandas, seaborn, matplotlib, numpy and folium.
 
+***
 
 ## **Spatial Modelling**
 
@@ -94,6 +100,7 @@ Check out the past projects session for brief descriptions of my official work.
 
 [SDM]()
 
+***
 
 ## **Natural Language Processing (NLP)**
 

@@ -12,6 +12,8 @@ This is an internship project, where I prototyped a VIIRS-based smoke detection 
 
 <span class="image left"><img src="{{ 'assets/images/fire2.jpg' | relative_url }}" alt="" /></span>
 
+<br>
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/python.svg" width="50" height="50">
   &nbsp;&nbsp;&nbsp;&nbsp;
