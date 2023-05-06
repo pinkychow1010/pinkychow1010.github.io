@@ -186,11 +186,11 @@
 		
 	.main-title-anim {
 		text-align: center;
-		text-transform: uppercase;
-		scroll-snap-type: y mandatory;
+		text-transform: inherit;
+		scroll-snap-type: none;
 		position: relative;
 		height: 30vh;
-		overflow-y: scroll;
+		overflow-y: visible;
 	}
 
 	.hover,
@@ -213,8 +213,7 @@
 		align-items: center;
 		justify-content: center;
 		letter-spacing: 0.4em;
-		// background: url(https://meowlivia.s3.us-east-2.amazonaws.com/codepen/background/glacier.jpg)
-		// 	no-repeat center center / cover;
+
 		h1 {
 			display: inline-block;
 		}
