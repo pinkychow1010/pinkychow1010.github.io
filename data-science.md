@@ -1,5 +1,5 @@
 ---
-title: Data Science Portfolio
+title: "Portfolio: GitHub Projects"
 subtitle: 
 layout: "page"
 icon: fa-book
