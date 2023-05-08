@@ -749,11 +749,12 @@
 	button,
 	.button {
 		position: relative;
+		width: 500px;
 		display: inline-block;
-		border-radius: 0.35em;
+		border-radius: 0.05em;
 		color: #fff !important;
 		text-decoration: none;
-		padding: 0.75em 2.5em 0.75em 2.5em;
+		padding: 0.3em 1em 0.3em 1em;
 		background-color: #36454F/* #8ebebc */;
 		border: 0;
 		cursor: pointer;
