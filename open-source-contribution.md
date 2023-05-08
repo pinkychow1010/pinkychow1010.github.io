@@ -8,11 +8,11 @@ order: 6
 
 ### [**World Bank Intraurban Analysis App**](https://sites.google.com/view/intraurban/home)
 
-<br>
+<div style="line-height:50%;">
+    <br>
+</div>
 
 [<img alt="" width="800px" src="assets/images/eobanner.jpg" />](https://sites.google.com/view/intraurban/home)
-
-<br>
 
 Earth observation and cloud computing allow fast and cost-effective analyses of urban risks, revealing significant impacts caused by the changing climate. Despite tons of satellite data being freely available, the programming and computational requirements are challenging for scholars from other fields to apply the data. For many, analysis-ready data can be helpful. 
 
@@ -23,6 +23,10 @@ To fill this gap, I developed an [interface](https://sites.google.com/view/intra
 
 
 ### [**Digital Chinese History Blog**](https://pinkychow1010.github.io/digital-chinese-history-blog/)
+
+<div style="line-height:50%;">
+    <br>
+</div>
 
 [<img alt="" width="800px" src="assets/images/blog.jpg" />](https://pinkychow1010.github.io/digital-chinese-history-blog/)
 
