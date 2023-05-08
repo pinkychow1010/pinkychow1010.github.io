@@ -12,7 +12,7 @@ order: 4
 
 <!-- <a href='assets/images/poster.pdf' download class="button">Click to View</a> -->
 
-<div class="container">
+<!-- <div class="container">
 
   <a href="#" class="button">
     <div class="button__line"></div>
@@ -22,7 +22,7 @@ order: 4
     <div class="button__drow2"></div>
   </a>
 
-</div>
+</div> -->
 
 <br>
 
@@ -33,7 +33,7 @@ order: 4
 #### Methodology applied for research project
 
 <!-- <a href='https://www.mdpi.com/2072-4292/14/18/4461' download class="button">Click to View</a> -->
-
+<!-- 
 <div class="container">
 
   <a href="#" class="button">
@@ -44,7 +44,7 @@ order: 4
     <div class="button__drow2"></div>
   </a>
 
-</div>
+</div> -->
 
 <br>
 
@@ -53,10 +53,10 @@ order: 4
 ### **Global SnowPack for VIIRS sensor**
 
 #### Software module applied for research project
+<!-- 
+<a href='' download class="button">Click to View</a> -->
 
-<!-- <a href='' download class="button">Click to View</a> -->
-
-<div class="container">
+<!-- <div class="container">
 
   <a href="#" class="button">
     <div class="button__line"></div>
@@ -66,4 +66,4 @@ order: 4
     <div class="button__drow2"></div>
   </a>
 
-</div>
+</div> -->
