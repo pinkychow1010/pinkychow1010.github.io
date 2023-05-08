@@ -21,8 +21,15 @@ My project in the team is to automate existing analysis workflow using cloud com
 The huge advantage of cloud computing is that users do not need any powerful machine to conduct the very computationally expensive EO analysis, such as modelling land surface temperature changes or vegetation dynamics in the last decades. The entire data processing workflow is performed on-the-fly, providing flexibility for users to study the desired regions. Apart from performing data analysis, a data explorer tool is also available for users to export analysis-ready spatial data layers for GIS applications in multiple data formats.
 
 <figure>
-	<img src="{{ 'assets/images/app.jpg' | relative_url }}" alt="snowcover"  width="800" />
-	<figcaption><b>Fig. Example app interface for intraurban analysis</b></figcaption>
+	<img src="{{ 'assets/images/explore.gif' | relative_url }}" alt="data explorer"  width="800" />
+	<figcaption><b>Fig. Data explorer interface</b></figcaption>
+</figure>
+
+<br>
+
+<figure>
+	<img src="{{ 'assets/images/analysis.gif' | relative_url }}" alt="data analysis tool"  width="800" />
+	<figcaption><b>Fig. Data analysis tool interface</b></figcaption>
 </figure>
 
 <br>
