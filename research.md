@@ -10,7 +10,11 @@ order: 4
 
 #### Final Poster Submission for ESA Living Planet Symposium 2022
 
-Locust invasion has frequently caused huge economic losses and threatened food security in the North African countries. This project aims to integrate long-term and short-term hydroclimatic variables (FEWS NET Land Information System and WorldClim) and multispectral reflectance (Landsat) into machine learning models for locust plague prediction in Ethiopia. I trained multiple models using data records from FAO Locust Hub and remote sensing imagery between 1998 and 2005, yielding optimal accuracy of 88.4%. The results are presented as a research poster at the ESA Living Planet Symposium 2022.
+<br>
+
+Locust invasion has frequently caused huge economic losses and threatened food security in the North African countries. This project aims to integrate long-term and short-term hydroclimatic variables (FEWS NET Land Information System and WorldClim) and multispectral reflectance (Landsat) into machine learning models for locust plague prediction in Ethiopia. 
+
+I trained multiple models using data records from FAO Locust Hub and remote sensing imagery between 1998 and 2005, yielding optimal accuracy of 88.4%. The results are presented as a research poster at the ESA Living Planet Symposium 2022.
 
 <a href='assets/images/poster.pdf' download class="button">Click to View</a>
 
@@ -21,6 +25,8 @@ Locust invasion has frequently caused huge economic losses and threatened food s
 ### **Snow Cover classification algorithms for European Alps**
 
 #### Methodology applied for research project
+
+<br>
 
 To understand the snowline elevation dynamics in the European Alps, remote sensing data can be applied by first building a snow cover classifier. In this project, I independently developed a novel classifier and the data pipeline for the long-term Landsat time series, yielding significant improvements in the classification results for all Landsat sensors. 
 
@@ -36,6 +42,8 @@ The algorithms are applied in the research study, published in the research jour
 ### **Global SnowPack for VIIRS sensor**
 
 #### Software module applied for research project
+
+<br>
 
 Global SnowPack is a data product developed by the DLR with global coverage, providing MODIS-based information about long-term snow cover changes. This project aims to develop a software module to integrate data from the Visible Infrared Imaging Radiometer Suite (VIIRS) instrument into the product, with a systematic evaluation of the potential compatibility of both datasets. 
 
