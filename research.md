@@ -34,7 +34,7 @@ I trained multiple models using data records from FAO Locust Hub and remote sens
 
 To understand the snowline elevation dynamics in the European Alps, remote sensing data can be applied by first building a snow cover classifier. In this project, I independently developed a novel classifier and the data pipeline for the long-term Landsat time series, yielding significant improvements in the classification results for all Landsat sensors. 
 
-The algorithms are applied in the research study, published in the research journal MDPI. More details are avaiable in the [project page](https://pinkychow1010.github.io/project/2021/10/01/snowline.html).
+The algorithms are applied in the research study, published in the research journal MDPI. More details are available in the [project page](https://pinkychow1010.github.io/project/2021/10/01/snowline.html).
 
 
 <a href='https://www.mdpi.com/2072-4292/14/18/4461' download class="button">Click to View</a>

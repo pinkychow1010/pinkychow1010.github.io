@@ -24,6 +24,14 @@ Apart from my work, I have worked on multiple free-time data science projects wh
 
 Check out the [past projects session](https://pinkychow1010.github.io/blog.html) for brief descriptions of my official work.
 
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkychow1010&show_icons=true&locale=en&layout=compact" alt="" width="400" height="150"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkychow1010&show_icons=true&locale=en&hide=contribs,prs" alt="" width="400"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkychow1010&" alt="" width="400"/></p>
+
+
 <figure>
 	<img src="{{ 'assets/images/library.png' | relative_url }}" alt="python-library"  width="400" />
 </figure>
