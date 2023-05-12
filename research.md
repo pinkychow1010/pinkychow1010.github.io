@@ -37,7 +37,7 @@ To understand the snowline elevation dynamics in the European Alps, remote sensi
 The algorithms are applied in the research study, published in the research journal MDPI. More details are available in the [project page](https://pinkychow1010.github.io/project/2021/10/01/snowline.html).
 
 
-<a href='https://www.mdpi.com/2072-4292/14/18/4461' download class="button">Click to View</a>
+<a href='https://www.mdpi.com/2072-4292/14/18/4461'  target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
 
 <br>
 
