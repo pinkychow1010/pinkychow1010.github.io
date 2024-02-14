@@ -14,11 +14,11 @@ sidebar-hide: true
 	<img src="{{ 'assets/images/night.jpg' | relative_url }}" alt="snowcover"  width="800" />
 </figure>
 
-As of May 2023, I am appointed to a short-term position as a climate risk consultant in the World Bank, working under the Poverty Reduction and Equity Group for Pakistan. Our team works on the Pakistan Country Climate and Development Report (CCDR), posting the need for detailed analysis of national climate risk using earth observation data and the humanity dataset. 
+In 2023, I joined the World Bank Group as a climate risk consultant within the Poverty Reduction and Equity Group. Our focus was on the Pakistan Country Climate and Development Report (CCDR), where we emphasized the necessity of thorough national climate risk analysis using earth observation data and human-centric datasets.
 
-My project in the team is to automate existing analysis workflow using cloud computing, providing scalability for other regions. Hence, I independently developed algorithms using Google Earth Engine Javascript API to create an interactive dashboard for intraurban analysis. Those analysis tasks reveal societal and environmental changes, as well as climate-related hazards population encounters, such as the urban heat island effect, deforestation, and recent urbanization. 
+During my work, I automated the existing climate risk analysis workflow using Google Earth Engine cloud computing. Through this, I developed an interactive dashboard for analysis, establishing a pioneering global analysis framework that integrates earth observation data with societal datasets.
 
-The huge advantage of cloud computing is that users do not need any powerful machine to conduct the very computationally expensive EO analysis, such as modelling land surface temperature changes or vegetation dynamics in the last decades. The entire data processing workflow is performed on-the-fly, providing flexibility for users to study the desired regions. Apart from performing data analysis, a data explorer tool is also available for users to export analysis-ready spatial data layers for GIS applications in multiple data formats.
+These analyses unveiled societal and environmental shifts alongside climate hazards like urban heat islands, deforestation, and recent urbanization trends. The framework empowered users, regardless of local data availability or programming skills, to easily conduct computationally intensive assessments, such as modeling land surface temperature changes or vegetation dynamics over recent decades.
 
 <figure>
 	<img src="{{ 'assets/images/explore.gif' | relative_url }}" alt="data explorer"  width="800" />
