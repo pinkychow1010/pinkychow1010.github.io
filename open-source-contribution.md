@@ -12,7 +12,7 @@ order: 6
     <br>
 </div>
 
-[<img alt="" width="800px" src="assets/images/eobanner.jpg" />](https://sites.google.com/view/intraurban/home){:target="_blank"}
+[<img alt="" width="800px" src="assets/images/climate_risk.jpg" />](https://sites.google.com/view/intraurban/home){:target="_blank"}
 
 Earth observation and cloud computing allow fast and cost-effective analyses of urban risks, revealing significant impacts caused by the changing climate. Despite tons of satellite data being freely available, the programming and computational requirements are challenging for scholars from other fields to apply the data. For many, analysis-ready data can be helpful. 
 
