@@ -1,5 +1,5 @@
 ---
-title: "Portfolio: GitHub Projects"
+title: "Hobby Projects"
 subtitle: 
 layout: "page"
 icon: fa-book

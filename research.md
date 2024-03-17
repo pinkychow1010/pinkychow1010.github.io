@@ -1,5 +1,5 @@
 ---
-title: Research Contributions
+title: Research
 subtitle: some works of mine
 layout: "page"
 icon: fa-book

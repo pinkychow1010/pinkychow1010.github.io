@@ -1,6 +1,6 @@
 ---
 title: Open Source Code
-subtitle: some works of mine
+subtitle: some of my works
 layout: "page"
 icon: fa-book
 order: 6
