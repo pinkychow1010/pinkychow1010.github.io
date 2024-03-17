@@ -1,6 +1,6 @@
 ---
-title: Hobby Project
-subtitle: some of my works
+title: Open Source Project
+subtitle: works on GitHub
 layout: "page"
 icon: fa-book
 order: 6
