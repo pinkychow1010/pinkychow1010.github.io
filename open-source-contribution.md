@@ -3,7 +3,7 @@ title: Open Source Project
 subtitle: works on GitHub
 layout: "page"
 icon: fa-book
-order: 6
+order: 5
 ---
 
 ### [**World Bank Intraurban Analysis App**](https://sites.google.com/view/intraurban/home){:target="_blank"}
