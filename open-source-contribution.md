@@ -1,5 +1,5 @@
 ---
-title: Open Source Code
+title: Hobby Project
 subtitle: some of my works
 layout: "page"
 icon: fa-book

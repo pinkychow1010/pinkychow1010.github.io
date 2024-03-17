@@ -1,6 +1,6 @@
 ---
 title: Research
-subtitle: some works of mine
+subtitle: contribution to scientific community
 layout: "page"
 icon: fa-book
 order: 4
