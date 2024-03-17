@@ -1,11 +1,11 @@
 ---
-title: Assessing Snow Avalanche Hazard ⛰️
+title: Snow Avalanche Hazard Assessment @ Munich Re
 layout: post
 category: project
 sidebar-hide: true
 ---
 
-## Munich Re: Global Snow Avalanche Assessment
+## Global Snow Avalanche Assessment
 
 
 <span class="image left"><img src="{{ 'assets/images/input.jpg' | relative_url }}" alt="" /></span>

@@ -1,11 +1,11 @@
 ---
-title: Fusing Satellite Data 🧱
+title: Satellite Data Fusion @ DLR
 layout: post
 category: project
 sidebar-hide: true
 ---
 
-## DLR contract: Landsat - MODIS Data Fusion
+## Landsat - MODIS Data Fusion
 
 This project is a work contract with DLR, which aims to gain additional information about surface water dynamics from satellite imagery by fusing Landsat and MODIS data.
 

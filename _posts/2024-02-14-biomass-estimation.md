@@ -1,11 +1,11 @@
 ---
-title: AI Model for Biomass Estimation 🌳
+title: Biomass Estimation using AI @ Ororatech
 layout: post
 category: project
 sidebar-hide: true
 ---
 
-## [Ororatech: Mapping Global Carbon Stock with CNNs](https://sites.google.com/view/intraurban/home)
+## [Mapping Global Carbon Stock with CNNs](https://sites.google.com/view/intraurban/home)
 
 
 <br>

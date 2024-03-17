@@ -1,11 +1,11 @@
 ---
-title: Climate Risk Assessment 🏙️
+title: CCDR Climate Risk Assessment @ World Bank
 layout: post
 category: project
 sidebar-hide: true
 ---
 
-## [World Bank: Climate Risk Assessment in Urban Pakistan](https://sites.google.com/view/intraurban/home)
+## [Climate Risk Assessment in Urban Pakistan](https://sites.google.com/view/intraurban/home)
 
 
 <br>
