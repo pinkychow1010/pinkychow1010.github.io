@@ -6,7 +6,7 @@ icon: fa-book
 order: 5
 ---
 
-### [**World Bank Intraurban Analysis App**](https://sites.google.com/view/intraurban/home){:target="_blank"}
+### [**World Bank Climate Risk Analysis App**](https://sites.google.com/view/intraurban/home){:target="_blank"}
 
 <div style="line-height:50%;">
     <br>
