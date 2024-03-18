@@ -15,14 +15,16 @@ The toolbox offers a wealth of information, including analyses of land cover cha
 
 <figure>
     <a href="https://geoawesomeness.com/special-day-awesome-event-geoawesomeness-munich-1st-meetup-2024/" target="_blank">
-        <img src="/assets/images/geoawesome.jpg" alt="Presentation at Geoawesomeness" width="400"/>
+        <img src="/assets/images/geoawesome.jpg" alt="Presentation at Geoawesomeness" width="600"/>
     </a>
     <figcaption>Presentation at Geoawesomeness</figcaption>
 </figure>
 
+<br>
+
 <figure>
     <a href="https://www.youtube.com/watch?v=6fs10RBag7w&t=1191s" target="_blank">
-        <img src="/assets/images/gee_present.jpg" alt="Presentation at GEE Meetup" width="400"/>
+        <img src="/assets/images/gee_present.jpg" alt="Presentation at GEE Meetup" width="600"/>
     </a>
     <figcaption>Presentation at the GEE Meetup</figcaption>
 </figure>
