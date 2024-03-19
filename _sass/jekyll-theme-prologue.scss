@@ -803,6 +803,29 @@
 		}
 	}
 
+	.plainitem {
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+		margin-bottom: 0px;
+
+		header {
+			color: #666;
+			text-align: center;
+			background: #fff;
+			margin: 0;
+			padding: 0;
+			font-size: 0.8em;
+
+			h3 {
+				font-size: 1.5em;
+			}
+			
+			h6 {
+				font-size: 1em;
+				color: #616161;
+			}
+		}
+	}
+	
 /* Icons */
 
 	.icon {
