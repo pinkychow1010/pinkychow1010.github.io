@@ -569,7 +569,7 @@
 		&.avatar48 {
 			width: 120px;
 			height: 120px;
-			background: #0000ffff;
+			background: #000000;
 
 			img {
 				width: 120px;
@@ -583,8 +583,9 @@
 		}
 		
 		&.icon {
+			display: block;
 			width: 100%;
-			margin: 2em 2em 2em 2em;
+			margin: 0 0 0 0;
 		}
 
 		&.featured {
