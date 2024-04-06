@@ -1,6 +1,6 @@
 ---
-title: Research Publications
-subtitle: Remote sensing research and data product development
+title: Research
+subtitle: Published remote sensing research and product development
 layout: "page"
 icon: fa-book
 order: 4
