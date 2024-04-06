@@ -53,7 +53,26 @@ The algorithms are applied in the research study, published in the research jour
 
 Global SnowPack is a data product developed by the DLR with global coverage, providing MODIS-based information about long-term snow cover changes. This project aims to develop a software module to integrate data from the Visible Infrared Imaging Radiometer Suite (VIIRS) instrument into the product, with a systematic evaluation of the potential compatibility of both datasets. 
 
-The project details are available [here](https://pinkychow1010.github.io/project/2022/09/01/gsp.html). The results are planned to be published in a research journal.
+The project details are available [here](https://pinkychow1010.github.io/project/2022/09/01/gsp.html). The results are officially published.
 
-<a href='' download class="button">Click to View</a>
+<a href='https://elib.dlr.de/196644/' download class="button">Click to View</a>
+
+
+<br>
+
+***
+
+### **Time Series of Daily Snow Cover in Europe**
+
+#### AVHRR Data processor applied for research project
+
+<div style="line-height:50%;">
+    <br>
+</div>
+
+This project involves the creation of a software module integrating long-term AVHRR satellite imagery into a snow cover data product within the TIMELINE project framework.
+Focusing on the cryosphere, the daily estimation of the snow-covered area from AVHRR data between 1982 and 2018 provides an unprecedented 36-year period of observation.
+The results are officially published in IEEE International Geoscience and Remote Sensing.
+
+<a href='https://elib.dlr.de/198863/1/IEEE_IGARSS_2023_Roessler_Paper.pdf' download class="button">Click to View</a>
 
