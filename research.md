@@ -1,6 +1,6 @@
 ---
-title: Research
-subtitle: contribution to scientific community
+title: Research Publications
+subtitle: Remote sensing research and data product development
 layout: "page"
 icon: fa-book
 order: 4
