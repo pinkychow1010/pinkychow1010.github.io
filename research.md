@@ -6,25 +6,6 @@ icon: fa-book
 order: 4
 ---
 
-### **DLR: Snow Cover classification algorithms for Alps**
-
-#### Innovative solution published in MDPI (2022)
-
-<div style="line-height:50%;">
-    <br>
-</div>
-
-To understand the snowline elevation dynamics in the European Alps, remote sensing data can be applied by first building a snow cover classifier. In this project, I independently developed a novel classifier and the data pipeline for the long-term Landsat time series, yielding significant improvements in the classification results for all Landsat sensors. 
-
-The algorithms are applied in the research study, published in the research journal MDPI. More details are available in the [project page](https://pinkychow1010.github.io/project/2021/10/01/snowline.html).
-
-
-<a href='https://www.mdpi.com/2072-4292/14/18/4461'  target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
-
-<br>
-
-***
-
 ### **DLR: Global SnowPack for VIIRS sensor**
 
 #### Software development on EOC data product (2023)
@@ -58,6 +39,24 @@ The results are officially published in IEEE International Geoscience and Remote
 
 <a href='https://elib.dlr.de/198863/1/IEEE_IGARSS_2023_Roessler_Paper.pdf' target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
 
+<br>
+
+***
+
+### **DLR: Snow Cover classification algorithms for Alps**
+
+#### Innovative solution published in MDPI (2022)
+
+<div style="line-height:50%;">
+    <br>
+</div>
+
+To understand the snowline elevation dynamics in the European Alps, remote sensing data can be applied by first building a snow cover classifier. In this project, I independently developed a novel classifier and the data pipeline for the long-term Landsat time series, yielding significant improvements in the classification results for all Landsat sensors. 
+
+The algorithms are applied in the research study, published in the research journal MDPI. More details are available in the [project page](https://pinkychow1010.github.io/project/2021/10/01/snowline.html).
+
+
+<a href='https://www.mdpi.com/2072-4292/14/18/4461'  target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
 
 <br>
 
