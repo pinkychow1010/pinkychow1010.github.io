@@ -6,27 +6,9 @@ icon: fa-book
 order: 4
 ---
 
-### **Machine Learning-based Locust Swarm Prediction in Ethiopia**
+### **DLR: Snow Cover classification algorithms for European Alps**
 
-#### Final Poster Submission for ESA Living Planet Symposium 2022
-
-<div style="line-height:50%;">
-    <br>
-</div>
-
-Locust invasion has frequently caused huge economic losses and threatened food security in the North African countries. This project aims to integrate long-term and short-term hydroclimatic variables (FEWS NET Land Information System and WorldClim) and multispectral reflectance (Landsat) into machine learning models for locust plague prediction in Ethiopia. 
-
-I trained multiple models using data records from FAO Locust Hub and remote sensing imagery between 1998 and 2005, yielding optimal accuracy of 88.4%. The results are presented as a research poster at the ESA Living Planet Symposium 2022.
-
-<a href='assets/images/poster.pdf' download class="button">Click to View</a>
-
-<br>
-
-***
-
-### **Snow Cover classification algorithms for European Alps**
-
-#### Methodology applied for research project
+#### Innovative solution published in MDPI
 
 <div style="line-height:50%;">
     <br>
@@ -43,9 +25,9 @@ The algorithms are applied in the research study, published in the research jour
 
 ***
 
-### **Global SnowPack for VIIRS sensor**
+### **DLR: Global SnowPack for VIIRS sensor**
 
-#### Software module applied for research project
+#### Software development on EOC data product
 
 <div style="line-height:50%;">
     <br>
@@ -55,24 +37,42 @@ Global SnowPack is a data product developed by the DLR with global coverage, pro
 
 The project details are available [here](https://pinkychow1010.github.io/project/2022/09/01/gsp.html). The results are officially published.
 
-<a href='https://elib.dlr.de/196644/' download class="button">Click to View</a>
+<a href='https://elib.dlr.de/196644/' target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
 
 
 <br>
 
 ***
 
-### **Time Series of Daily Snow Cover in Europe**
+### **DLR: Time Series of Daily Snow Cover in Europe**
 
-#### AVHRR Data processor applied for research project
+#### AVHRR Data processor published on IEEE
 
 <div style="line-height:50%;">
     <br>
 </div>
 
-This project involves the creation of a software module integrating long-term AVHRR satellite imagery into a snow cover data product within the TIMELINE project framework.
+This project involves the creation of a software processor integrating long-term AVHRR satellite imagery into a snow cover data product within the TIMELINE project framework.
 Focusing on the cryosphere, the daily estimation of the snow-covered area from AVHRR data between 1982 and 2018 provides an unprecedented 36-year period of observation.
 The results are officially published in IEEE International Geoscience and Remote Sensing.
 
-<a href='https://elib.dlr.de/198863/1/IEEE_IGARSS_2023_Roessler_Paper.pdf' download class="button">Click to View</a>
+<a href='https://elib.dlr.de/198863/1/IEEE_IGARSS_2023_Roessler_Paper.pdf' target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
 
+
+<br>
+
+***
+
+### **Machine Learning-based Locust Swarm Prediction in Ethiopia**
+
+#### Published Poster for ESA Living Planet Symposium 2022
+
+<div style="line-height:50%;">
+    <br>
+</div>
+
+Locust invasion has frequently caused huge economic losses and threatened food security in the North African countries. This project aims to integrate long-term and short-term hydroclimatic variables (FEWS NET Land Information System and WorldClim) and multispectral reflectance (Landsat) into machine learning models for locust plague prediction in Ethiopia. 
+
+I trained multiple models using data records from FAO Locust Hub and remote sensing imagery between 1998 and 2005, yielding optimal accuracy of 88.4%. The results are presented as a research poster at the ESA Living Planet Symposium 2022.
+
+<a href='assets/images/poster.pdf' download class="button">Click to View</a>
