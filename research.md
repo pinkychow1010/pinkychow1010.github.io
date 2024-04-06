@@ -6,9 +6,9 @@ icon: fa-book
 order: 4
 ---
 
-### **DLR: Snow Cover classification algorithms for European Alps**
+### **DLR: Snow Cover classification algorithms for Alps**
 
-#### Innovative solution published in MDPI
+#### Innovative solution published in MDPI (2022)
 
 <div style="line-height:50%;">
     <br>
@@ -27,7 +27,7 @@ The algorithms are applied in the research study, published in the research jour
 
 ### **DLR: Global SnowPack for VIIRS sensor**
 
-#### Software development on EOC data product
+#### Software development on EOC data product (2023)
 
 <div style="line-height:50%;">
     <br>
@@ -46,7 +46,7 @@ The project details are available [here](https://pinkychow1010.github.io/project
 
 ### **DLR: Time Series of Daily Snow Cover in Europe**
 
-#### AVHRR Data processor published on IEEE
+#### AVHRR Data processor published on IEEE (2023)
 
 <div style="line-height:50%;">
     <br>
@@ -65,7 +65,7 @@ The results are officially published in IEEE International Geoscience and Remote
 
 ### **Machine Learning-based Locust Swarm Prediction in Ethiopia**
 
-#### Published Poster for ESA Living Planet Symposium 2022
+#### Published Poster for ESA Living Planet Symposium (2022)
 
 <div style="line-height:50%;">
     <br>
@@ -73,6 +73,6 @@ The results are officially published in IEEE International Geoscience and Remote
 
 Locust invasion has frequently caused huge economic losses and threatened food security in the North African countries. This project aims to integrate long-term and short-term hydroclimatic variables (FEWS NET Land Information System and WorldClim) and multispectral reflectance (Landsat) into machine learning models for locust plague prediction in Ethiopia. 
 
-I trained multiple models using data records from FAO Locust Hub and remote sensing imagery between 1998 and 2005, yielding optimal accuracy of 88.4%. The results are presented as a research poster at the ESA Living Planet Symposium 2022.
+I trained multiple models using data records from FAO Locust Hub and remote sensing imagery between 1998 and 2005, yielding optimal accuracy of 88.4%. The results are presented at the ESA Living Planet Symposium.
 
 <a href='assets/images/poster.pdf' download class="button">Click to View</a>
