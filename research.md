@@ -6,6 +6,25 @@ icon: fa-book
 order: 4
 ---
 
+### **Ororatech: Biomass Estimation**
+
+#### Geospatial product development (2024)
+
+<div style="line-height:50%;">
+    <br>
+</div>
+
+An emerging carbon market necessitates precise near-real-time monitoring of forest carbon stocks. This project entails the development of an optimized deep learning model capable of accurately predicting global aboveground biomass at a very high temporal and spatial resolution. The model is trained using over 2 million space-borne imagery and ancillary geospatial data.
+
+The project details are available [here](https://pinkychow1010.github.io/project/2024/02/14/biomass-estimation.html). The results are officially published at ML4RS workshop, ICLR 2024.
+
+<a href='https://ml-for-rs.github.io/iclr2024/camera_ready/papers/45.pdf' target="_blank" rel="noopener noreferrer" download class="button">Click to View</a>
+
+
+<br>
+
+***
+
 ### **DLR: Global SnowPack for VIIRS sensor**
 
 #### Software development on EOC data product (2023)
