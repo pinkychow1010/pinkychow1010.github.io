@@ -1,6 +1,6 @@
 ---
-title: Research
-subtitle: Published remote sensing research and product development
+title: Published Work
+subtitle:  
 layout: "page"
 icon: fa-book
 order: 4
