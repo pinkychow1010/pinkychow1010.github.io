@@ -2,7 +2,7 @@
 title: Published Work
 subtitle:  
 layout: "page"
-icon: fa-book
+icon: fa-file
 order: 4
 ---
 
