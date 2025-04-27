@@ -2,7 +2,7 @@
 title: Resume
 subtitle: 
 layout: "page"
-icon: fa-book
+icon: fa-file
 order: 7
 ---
 
