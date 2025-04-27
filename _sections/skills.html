@@ -4,10 +4,45 @@ icon: fa-code
 order: 3
 ---
 
-<div class="row">
+
+<style>
+  .skills-grid {
+    text-align: center;
+  }
+
+  .skill-card {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 12px;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+  }
+
+  .skill-card:hover {
+    box-shadow: 0 4px 20px rgba(0, 150, 255, 0.3);
+    transform: translateY(-5px);
+  }
+
+  .skills-grid .skill-icon {
+    width: 60px;
+    height: 60px;
+    object-fit: contain;
+    margin-bottom: 10px;
+    transition: 0.3s ease-in-out;
+  }
+
+  .skills-grid h4 {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #333;
+  }
+</style>
+
+<div class="row skills-grid">
 
   <div class="2u 4u$(mobile)">
-    <div class="item">
+    <div class="skill-card">
       <img src="{{ 'assets/icons/Pandas.png' | relative_url }}" alt="Pandas" style="width:50px; margin: 0 auto; display: block;" />
       <h4 style="text-align:center;">Pandas</h4>
     </div>
